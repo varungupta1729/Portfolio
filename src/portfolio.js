@@ -306,7 +306,7 @@ const blogSection = {
         "https://www.shutterstock.com/image-vector/tshirt-vector-icon-set-clothing-260nw-2284531331.jpg"
     },
     {
-      url: "htthttps://react-basic-projects-for-learning.vercel.app/",
+      url: "https://react-basic-projects-for-learning.vercel.app/",
       title: "Learning React",
       description:
         "https://media.licdn.com/dms/image/C511BAQF8F2Wry9GTXQ/company-background_10000/0/1584269093982/reactofficial_cover?e=2147483647&v=beta&t=TMIox6sTR3227DIw-2U1I_gk7cqj7xktbb2OkKNfvo4"
