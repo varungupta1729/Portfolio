@@ -272,7 +272,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "",
+    "Check my Github for Code",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
