@@ -24,7 +24,7 @@
 }
 
 .skills-heading {
-  font-size: 50px;
+  font-size: 40px !important;
   font-weight: 400;
 }
 .subTitle {
@@ -46,8 +46,11 @@
   }
 }
 @media (max-width: 768px) {
+  .subTitle{
+    text-align: center;
+  }
   .skills-heading {
-    font-size: 30px;
+    font-size: 30px !important;
     text-align: center;
   }
   .greeting-text-p {
@@ -60,6 +63,7 @@
   .skills-text-div {
     margin-left: 0px;
     margin: 20px;
+    padding: 30px 0;
   }
   .skills-text {
     font-size: 16px;

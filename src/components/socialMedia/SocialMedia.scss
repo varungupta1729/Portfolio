@@ -29,9 +29,7 @@
   transition: 0.2s ease-in;
 }
 
-.facebook i {
-  background-color: $faceBook;
-}
+
 
 .linkedin i {
   background-color: $linkedin;
@@ -43,10 +41,6 @@
 
 .gitlab i {
   background-color: $gitlab;
-  display: flex;
-  
-  justify-content: center;
-  align-items: center;
 }
 
 .google i {
@@ -89,8 +83,10 @@
 
 
 /* Media Query */
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .social-media-div {
-    text-align: center;
+    justify-content: center;
   }
+  
+
 }

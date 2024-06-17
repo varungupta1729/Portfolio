@@ -29,6 +29,8 @@
 }
 .skills-container {
   display: flex;
+  justify-content: center;
+  align-items: center;
   width: 90%;
   padding: 20px 10px;
   margin: 0px auto;
@@ -61,10 +63,13 @@
 @media (max-width: 768px) {
   .skills-container {
     flex-direction: column;
+    
   }
   .skills-bar {
     line-height: 3rem;
     margin: 20px;
+    width: 70%;
+    
   }
   .skills-image {
     display: none;

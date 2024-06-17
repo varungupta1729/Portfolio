@@ -44,17 +44,7 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.leetcode ? (
-        <a
-          href={socialMediaLinks.leetcode}
-          className="icon-button gitlab"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i className="leetcode"><TbBrandLeetcode size={27} /></i>
-          <span></span>
-        </a>
-      ) : null}
+   
 
 
     </div>
