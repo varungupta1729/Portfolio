@@ -16,9 +16,7 @@
   color: $textColorDark !important;
 }
 
-.dark-menu li a:hover {
-  background-color: $buttonColor !important;
-}
+
 .dark-head{
   color: black;
 }
@@ -48,10 +46,7 @@
   text-decoration: none;
 }
 
-.header li a:hover,
-.header .menu-btn:hover {
-  background-color: $headerHoverBG;
-}
+
 
 .header .logo {
   display: block;
