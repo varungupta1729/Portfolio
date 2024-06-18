@@ -1,0 +1,57 @@
+.qoute-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c{
+    fill: #cbe5fc;
+}
+.comment-div {
+   
+    margin: 120px 20px;
+    width: 60%;
+  }
+  .comment p{
+    z-index: 2;
+  }
+  .feedback-owner {
+    text-align: right;
+    color: rgba(128, 128, 128, 1);
+  }
+  .feedback-owner span {
+    color: var(--radical-red);
+    border: 2px;
+    width: 30px;
+    height: 2px;
+    font-weight: 700;
+  }
+  
+ 
+  .comment p {
+    
+    z-index: 10;
+    font-weight: 500;
+  }
+
+  .start{
+    margin: 0 10px;
+    font-size: 30px;
+  }
+  cite
+  {
+  	font-size: 24px;
+  	display: block;
+  	margin-top: 3px;
+  	text-align: right;
+  	margin-bottom: 10px;
+  }
+  cite:before
+  {
+  	content: "\2014 \2009";
+    
+  }
+ @media (max-width:700px) {
+    .comment p {
+        text-align: center;
+    }
+ }
