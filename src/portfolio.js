@@ -26,7 +26,7 @@ const greeting = {
     "Passionate about crafting cutting-edge web solutions to tackle real-world challenges with innovation and creativity. Committed to excellence, I transform ideas into impactful, user-centric designs."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ZtjbxmRSXb2ZKhmxXhq_Dciq0HiaHJA9/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/10QmLH9azh5NGOKiso7cwP8M8K-hL09uy/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
