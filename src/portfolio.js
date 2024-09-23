@@ -277,7 +277,7 @@ const blogSection = {
   blogs: [
     {
       url: "https://netflix-gpt-seven-opal.vercel.app/",
-      title: "3D Tshirt Customization",
+      title: "NetflixGPT AI Based Searching",
       description:
         "https://i.vimeocdn.com/video/819551533-dfd46d6942c6050ca267448c424f18a437d10ad8e95d1897ec5c77a8ecf7344d-d_640?f=webp"
     },
