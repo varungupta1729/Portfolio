@@ -129,6 +129,14 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "MERN Stack Developer",
+      company: "Digizura Pvt Ltd",
+      link:"https://drive.google.com/file/d/1xmcATK0VGFzWuvLNza5XQUvWeIXPUHwn/view?usp=drive_link",
+      date: "July 2024 – August 2024",
+      desc: "Completed an internship by Digizura Pvt Ltd on a role of MERN Stack Developer",
+   
+    },
+    {
       role: "Frontend Develoment",
       company: "IBM Skillbuild",
       link:"https://drive.google.com/file/d/1hiVDecJXfGuz8mzNaG2BzwA9h3GGrWE8/view?usp=sharing",
@@ -143,13 +151,7 @@ const workExperiences = {
       date: "August 2023 – September 2023",
       desc: "Completed an virtual internship on AI-ML by EduSkills supported by AWS Academy."
     },
-    {
-      role: "Frontend Development",
-      company: "IIPC of KIET",
-      link: "https://drive.google.com/file/d/1x2qtEmiyWfa574lMVSDwkTXDpvirC6fG/view?usp=sharing",
-      date: "August 2022 - September 2022",
-      desc: "Completed an internship organized by IIPC of KIET Group of Institutions on Mini Project in Advanced C."
-    }
+
   ]
 };
 
@@ -199,6 +201,36 @@ const bigProjects = {
         },  {
           name: "Github",
           url: "https://github.com/varungupta1729/EdTech-Platform"
+        }
+      ]
+    },
+    {
+      image: "https://seekvectors.com/files/download/Black%20Color%20Netflix-01.png",
+      imageDark:"https://seekvectors.com/files/download/Netflix-Logo-03.png",
+      projectName: "NetflixGPT",
+      projectDesc: "Watch Movies with AI assistance",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://netflix-gpt-seven-opal.vercel.app/"
+        },  {
+          name: "Github",
+          url: "https://github.com/varungupta1729/Netflix-GPT"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/DesignerStudio_Black.png"),
+      imageDark: require("./assets/images/DesignerStudio_WHite.png"),
+      projectName: "DesignerStudio",
+      projectDesc: "Design your Clothes with AI",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://designer-studio.vercel.app/"
+        },  {
+          name: "Github",
+          url: "https://github.com/varungupta1729/DesignerStudio"
         }
       ]
     }
@@ -276,10 +308,10 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://netflix-gpt-seven-opal.vercel.app/",
-      title: "NetflixGPT AI Based Searching",
+      url: "https://reddit-comments-teal.vercel.app/",
+      title: "Reddit Nested Comments (Typescript) with Unit Testing ",
       description:
-        "https://i.vimeocdn.com/video/819551533-dfd46d6942c6050ca267448c424f18a437d10ad8e95d1897ec5c77a8ecf7344d-d_640?f=webp"
+        "https://logos-world.net/wp-content/uploads/2023/12/Reddit-Logo.jpg"
     },
     {
       url: "https://wedesigneteescustome.vercel.app/",
@@ -292,6 +324,12 @@ const blogSection = {
       title: "Quiz App",
       description:
         "https://repository-images.githubusercontent.com/182525249/aadd7a80-54fe-11eb-9872-ccd06b8789b6"
+    },
+    {
+      url: "https://basic-portfolio-mocha.vercel.app/",
+      title: "Portfolio Assignement using JSON Server (Check More about it on my Github) ",
+      description:
+        "https://ezahn47ugtf.exactdn.com/wp-content/uploads/2022/05/portfolio-book-creation-scaled.jpg?strip=all&lossy=1&ssl=1"
     },
     {
       url: "https://carts-learning.vercel.app/",
