@@ -26,7 +26,7 @@ const greeting = {
     "Passionate about crafting cutting-edge web solutions to tackle real-world challenges with innovation and creativity. Committed to excellence, I transform ideas into impactful, user-centric designs."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1a_Eypa0OMbN6T3GJQIcE3WUSoEqfxrmz/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1U00v2sicry8GkZfpqZCyfBD7GMUAlN77/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -134,6 +134,14 @@ const workExperiences = {
       link:"https://drive.google.com/file/d/1xmcATK0VGFzWuvLNza5XQUvWeIXPUHwn/view?usp=drive_link",
       date: "July 2024 – August 2024",
       desc: "Completed an internship by Digizura Pvt Ltd on a role of MERN Stack Developer",
+   
+    },
+    {
+      role: "Freelancer",
+      company: "Teific Pvt Ltd",
+      link:"https://teific.in/",
+      date: "June 2024 – July 2024",
+      desc: "Completed an project as a Freelancer",
    
     },
     {
