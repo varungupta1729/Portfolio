@@ -53,7 +53,7 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "My skills span both frontend and backend development, utilizing technologies like HTML5, CSS, SCSS, Tailwind, Bootstrap, JavaScript, TypeScript, ReactJS, Redux, jQuery, Node.js, Express.js, and Mongoose.js. I am also experienced with databases such as MongoDB, MySQL, and Firebase."
+      "My skills span both frontend and backend development, utilizing technologies like HTML5, SCSS, Tailwind, JavaScript, TypeScript, ReactJS, Redux, jQuery, ThreeJS, Node.js, Express.js, Socket.io, NestJS, Spring Boot, Spring Framework, Hibernate, and Microservices. I am also experienced with databases such as MongoDB, MySQL, Firebase, and PL/SQL, along with strong proficiency in Git, GitHub, Unix/Linux, Shell Scripting, and testing frameworks like JUnit and Mockito."
     )
   ],
 
@@ -117,7 +117,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "70%"
+      progressPercentage: "80%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -128,6 +128,13 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+       {
+      role: "PAT",
+      company: "Cognizant",
+      link:"https://drive.google.com/file/d/1xz9VCdSoeybkRV-Pm2RwQKFZP2nYNP_m/view?usp=sharing",
+      date: "March 2025 – Present",
+      desc: "Java Developer in Cognizant PVT LTD as Full Time"
+    },
     {
       role: "MERN Stack Developer",
       company: "Digizura Pvt Ltd",
@@ -152,13 +159,7 @@ const workExperiences = {
       desc: "Completed an internship by IBM SkillBuild by Edunet Foundation under AICTE on Frontend Development.",
    
     },
-    {
-      role: "Ai-ML Virtual Internship",
-      company: "EduSkills supported by AWS",
-      link:"https://drive.google.com/file/d/1xz9VCdSoeybkRV-Pm2RwQKFZP2nYNP_m/view?usp=sharing",
-      date: "August 2023 – September 2023",
-      desc: "Completed an virtual internship on AI-ML by EduSkills supported by AWS Academy."
-    },
+ 
 
   ]
 };
@@ -343,7 +344,7 @@ const blogSection = {
       url: "https://carts-learning.vercel.app/",
       title: "Learning Add to Cart",
       description:
-        "https://blendcommerce.com/cdn/shop/articles/ATC_header.png?v=1647348950"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqj-DEitKBMNIxDcKVg2xd0JKBTeV837VNxQ&s"
     },
     {
       url: "https://food-recipe-for-learning.vercel.app/",
