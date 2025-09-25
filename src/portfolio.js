@@ -117,7 +117,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "80%"
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -129,7 +129,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
        {
-      role: "PAT",
+      role: "(PAT)",
       company: "Cognizant",
       link:"https://drive.google.com/file/d/1xz9VCdSoeybkRV-Pm2RwQKFZP2nYNP_m/view?usp=sharing",
       date: "March 2025 – Present",
@@ -460,7 +460,7 @@ const twitterDetails = {
   display: true // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
