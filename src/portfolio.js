@@ -213,8 +213,8 @@ const bigProjects = {
       ]
     },
     {
-      image: "https://seekvectors.com/files/download/Black%20Color%20Netflix-01.png",
-      imageDark:"https://seekvectors.com/files/download/Netflix-Logo-03.png",
+      image:  require("./assets/images/N-Black.png"),
+      imageDark:require("./assets/images/N__White.png"),
       projectName: "NetflixGPT",
       projectDesc: "Watch Movies with AI assistance",
       footerLink: [
