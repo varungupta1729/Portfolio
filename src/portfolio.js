@@ -146,7 +146,7 @@ const workExperiences = {
     {
       role: "Freelancer",
       company: "Teific Pvt Ltd",
-      link:"https://teific.in/",
+      link:"https://teific-freelance-frontend.vercel.app/",
       date: "June 2024 – July 2024",
       desc: "Completed an project as a Freelancer",
    
