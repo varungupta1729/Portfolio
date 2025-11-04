@@ -49,7 +49,10 @@ export default function Contact() {
               </a>
               <br />
               <br />
-              <SocialMedia />
+              <div className="social-media-div-footer">
+                   <SocialMedia footer={true}/>
+              </div>
+             
             </div>
           </div>
           <div className="contact-image-div">

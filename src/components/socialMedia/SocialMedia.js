@@ -2,12 +2,12 @@ import React from "react";
 import "./SocialMedia.scss";
 import {socialMediaLinks} from "../../portfolio";
 import { TbBrandLeetcode } from "react-icons/tb";
-export default function socialMedia() {
+export default function socialMedia({footer}) {
   if (!socialMediaLinks.display) {
     return null;
   }
   return (
-    <div className="social-media-div">
+    <div className={footer ? "social-media-div-footer" : "social-media-div" }>
       {socialMediaLinks.github ? (
         <a
           href={socialMediaLinks.github}
