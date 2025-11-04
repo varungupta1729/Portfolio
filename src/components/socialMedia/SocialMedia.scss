@@ -95,3 +95,10 @@
   
 
 }
+
+/* Media Query */
+@media (max-width: 1380px), (max-width: 768px) {
+  .social-media-div {
+    justify-content: center;
+  }
+}

@@ -69,7 +69,7 @@ export default function ExperienceCard({cardInfo, isDark}) {
         <ul>
           <GetDescBullets descBullets={cardInfo.descBullets} isDark={isDark} />
         </ul>
-        <a href={cardInfo.link} about="blank"><button className="certificate"> View Certificate</button></a>
+        <a href={cardInfo.link} about="blank"><button className="certificate"> View More</button></a>
         
       </div>
      

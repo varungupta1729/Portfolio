@@ -131,7 +131,7 @@ const workExperiences = {
        {
       role: "(PAT)",
       company: "Cognizant",
-      link:"https://drive.google.com/file/d/1xz9VCdSoeybkRV-Pm2RwQKFZP2nYNP_m/view?usp=sharing",
+      link:"https://www.linkedin.com/posts/varungupta-full-stack-developer_im-happy-to-share-that-im-starting-a-new-activity-7304845574061600768-ClQn?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnJlgEBzkC_Sm5vZSsIQvjArF9B_u5xqig",
       date: "March 2025 – Present",
       desc: "Java Developer in Cognizant PVT LTD as Full Time"
     },
